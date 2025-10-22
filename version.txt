@@ -1,0 +1,3 @@
+version: 0.1.0
+release_date: 2025-10-22
+notes: Pilot build for internal testing
