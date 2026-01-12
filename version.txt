@@ -1,3 +1,3 @@
-version: 0.1.10
-release_date: 2026-01-09
-notes: Updated API url to remote agent, fixed for SSL cert
+version: 0.2.0
+release_date: 2026-01-12
+notes: UX Rework, conversation archiving
