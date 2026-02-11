@@ -1,3 +1,3 @@
-version: 0.2.6
-release_date: 2026-01-30
-notes: Voice UX improvments
+version: 0.2.7
+release_date: 2026-02-11
+notes: Improved navigation UX
